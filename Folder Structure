@@ -1,0 +1,13 @@
+monitoring-stack/
+│── README.md
+│
+├── terraform/
+│   └── main.tf
+│
+├── ansible/
+│   ├── inventory.ini
+│   └── playbook.yml
+│
+└── docker/
+    ├── docker-compose.yml
+    └── prometheus.yml
